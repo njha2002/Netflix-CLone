@@ -1,6 +1,3 @@
-Here's a README for your Netflix landing page project:
-
----
 
 # Netflix Landing Page
 
